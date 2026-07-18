@@ -30,6 +30,10 @@
     {
       "name": "Database Architecture",
       "description": "Designing and managing relational and non-relational database architectures with clean REST API integrations."
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Creating user-centered interface designs and interactive prototypes in Figma to map user journeys before development."
     }
   ],
   "projects": [
