@@ -1,0 +1,124 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Stevan Lim, S.Kom.",
+    "username": "stevanlim",
+    "headline": "Full-Stack Web & Mobile Developer",
+    "affiliation": "STMIK Pontianak",
+    "location": "Pontianak, Indonesia",
+    "status": "Open for Projects & Collaborations",
+    "about": [
+      "I am a Programmer and Web/Mobile Application Developer graduated from STMIK Pontianak (S.Kom.), specializing in high-performance frontend and backend systems.",
+      "I focus on writing clean, efficient, and well-structured code. I am active on GitHub exploring open-source repositories and collaborating with teams on real-world projects."
+    ]
+  },
+  "research": {
+    "primary": "Web & Mobile Technology",
+    "direction": "Scalable & Reactive Systems",
+    "themes": "SvelteKit / NativeScript / MySQL",
+    "narrative": "I am dedicated to engineering high-performance web and mobile software. I focus on developing clean, responsive frontends and well-optimized backend systems that solve practical business problems."
+  },
+  "focus": [
+    {
+      "name": "Web Systems",
+      "description": "Building reactive and SEO-optimized web applications with SvelteKit, Laravel, Next.js, and React."
+    },
+    {
+      "name": "Mobile Engineering",
+      "description": "Developing cross-platform and native mobile applications using NativeScript, React Native, and Android Studio."
+    },
+    {
+      "name": "Database Architecture",
+      "description": "Designing and managing relational and non-relational database architectures with clean REST API integrations."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Traffic Barang",
+      "url": "https://stokbarang.toupsscomputer.store",
+      "homepage": "",
+      "focus": "SvelteKit & MySQL Inventory System",
+      "summary": "Inventory management and automated traffic logging platform built for PT. Segi Tiga Asia. Tracks stock level, supplier, and sale reports.",
+      "heroLabel": "Enterprise Build"
+    },
+    {
+      "name": "Toup SS Computer",
+      "url": "https://toupsscomputer.store",
+      "homepage": "",
+      "focus": "Digital Catalog & Web App",
+      "summary": "Platform for game top-ups, mobile vouchers, and electricity tokens with a direct customer support portal built with SvelteKit and NativeScript.",
+      "heroLabel": "Live platform"
+    },
+    {
+      "name": "SS Computer Portal",
+      "url": "https://hadisscomp8899.com/index.php",
+      "homepage": "",
+      "focus": "PHP Client Ticket Portal",
+      "summary": "Custom web application focusing on customer services registration, ticketing, and computer repair catalogs.",
+      "heroLabel": "Client Portal"
+    },
+    {
+      "name": "Kustore Design",
+      "url": "https://www.figma.com/design/0a3xf4Es9rulq8jTNhysJx/KUSTORE---APPS-TOP-UP?m=auto&t=JR60opJ7bcSbhUCf-6",
+      "homepage": "",
+      "focus": "Figma Mobile App UI/UX",
+      "summary": "High-fidelity user interface design and prototype for a game top-up application featuring dark mode and seamless checkout.",
+      "heroLabel": "Mobile UI/UX"
+    },
+    {
+      "name": "Indoflazz Design",
+      "url": "https://www.figma.com/design/cOw38OiRVTzcFC0OehxsHD/INDOFLAZZ---APPS-TOP-UP?node-id=0-1&t=IRyFyWObC5rIqOpH-1",
+      "homepage": "",
+      "focus": "Figma Mobile App UI/UX",
+      "summary": "Interface design and interactive prototype for Indoflazz mobile top-up app, blending modern dark mode aesthetics with concise product listings.",
+      "heroLabel": "Mobile UI/UX"
+    },
+    {
+      "name": "KPR Rumah Impian",
+      "url": "https://www.figma.com/design/eGkUYijgJV3PHujg5lsHFT/Landing-Page-KPR-Rumah-Impian?node-id=0-1&t=HvSnZHm8n1D0EjFh-0",
+      "homepage": "",
+      "focus": "Figma Web Landing Page",
+      "summary": "Figma landing page design for home ownership credit (KPR), featuring an intuitive mortgage calculator and high-impact CTA sections.",
+      "heroLabel": "Landing Page"
+    }
+  ],
+  "techStack": [
+    "SvelteKit",
+    "NativeScript",
+    "Laravel",
+    "Next.js",
+    "React",
+    "Node.js",
+    "MySQL",
+    "PostgreSQL",
+    "PHP",
+    "TypeScript",
+    "Android Studio",
+    "TailwindCSS",
+    "Figma"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "stevanlim",
+      "url": "https://github.com/stevanlim",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "Email",
+      "value": "stevanlim123@gmail.com",
+      "url": "https://github.com/stevanlim",
+      "logo": "gmail",
+      "color": "EA4335"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Building efficient digital solutions and sharing open source systems."
+}
